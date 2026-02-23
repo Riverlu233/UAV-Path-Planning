@@ -11,7 +11,7 @@ The objective of this project is to design an intelligent algorithm for unmanned
 ├── LICENSE                        # MIT
 ├── UAV_Path_Planning.pdf          # Final Report
 ├── src/                           # Source Code
-   └── main.py
+   └── ...
 ```
 
 ## Getting Started
